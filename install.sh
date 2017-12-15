@@ -7,7 +7,8 @@ wget http://downloads.openwrt.org/barrier_breaker/14.07/ar71xx/generic/packages/
 #wget http://demo.freewifimarketing.net/banner.jpg >null
 #wget http://demo.freewifimarketing.net/button.jpg >null
 #wget http://demo.freewifimarketing.net/splash.html >null
-wget http://demo.freewifimarketing.net/nodogsplash.conf >null 
+#wget http://demo.freewifimarketing.net/nodogsplash.conf >null
+wget https://raw.githubusercontent.com/irwanayeah/free-hotspot-nodogsplash/master/nodogsplash.conf >null 
 
 clear
 echo 'Installing please wait, donot turn off your router...'
